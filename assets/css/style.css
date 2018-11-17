@@ -1,0 +1,23 @@
+body{
+	background-color: gray;
+	text-align: center;
+}
+
+.text-muted{
+	color: black;
+}
+.last-seconds{
+    color: red;
+}
+.option{
+    margin: 15px;
+}
+.jrPicture{
+    width: 300px;
+}
+#start{
+    margin-bottom: 100px;
+}
+.container{
+    background-color: steelblue;
+}
